@@ -1,6 +1,7 @@
 ![3_1_](https://user-images.githubusercontent.com/70449658/164056016-871c250a-3553-4451-a436-2a3e87577d6e.gif)
 
 Oyunu Hazırlayanlar:
+
 -Kübra Selçuk 1180505620  
 
 -Zehra Abuşak  119050539
