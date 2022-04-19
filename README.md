@@ -4,7 +4,9 @@ Oyunu Hazırlayanlar:
 -Kübra Selçuk 1180505620  
 
 -Zehra Abuşak  119050539
+
 -Batuhan Berk Karadere 1170505054
+
 -Serhat Yıldız 5190505050 
 
 Merhaba, Hafıza kartı oyununa hoşgeldiniz.
