@@ -2,13 +2,13 @@
 
 Oyunu Hazırlayanlar:
 
--Kübra Selçuk 1180505620  
+-Kübra Selçuk 
 
--Zehra Abuşak  119050539
+-Zehra Abuşak  
 
--Batuhan Berk Karadere 1170505054
+-Batuhan Berk Karadere 
 
--Serhat Yıldız 5190505050 
+-Serhat Yıldız 
 
 Merhaba, Hafıza kartı oyununa hoşgeldiniz.
 
